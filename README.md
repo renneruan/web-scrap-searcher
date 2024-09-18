@@ -1,3 +1,7 @@
+# Crawler e Buscador
+
+Atividade desenvolvida para simular um crawler e um buscado.
+
 <br>
 A atividade realizada tem como objetivo recuperar informações da Web e com os resultados obtidos, realizarmos uma busca das melhores Urls que retornem a informação que desejamos.
 
@@ -34,3 +38,5 @@ Ao final os 3 valores são somados.
 <img src="resultados_pesquisa2.png" alt="Resultados Pesquisa2" />
 
 Scores de páginas significativas possuiram valores próximos entre 1 a 5 (1 a 10 somados), o objetivo era que cada score em média representasse 30% do valor. Páginas não significativas apresentam valores até mesmo negativos.
+
+Esta atividade foi desenvolvida para a disciplina de pós graduação: Recuperação de Dados da Web  
