@@ -1,6 +1,6 @@
 # Crawler e Buscador
 
-Atividade desenvolvida para simular um crawler e um buscado.
+Atividade desenvolvida para simular um crawler e um buscador.
 
 <br>
 A atividade realizada tem como objetivo recuperar informações da Web e com os resultados obtidos, realizarmos uma busca das melhores Urls que retornem a informação que desejamos.
